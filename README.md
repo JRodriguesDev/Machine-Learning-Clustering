@@ -21,9 +21,3 @@ O desafio consiste em distinguir tweets que reportam desastres genuínos (ex: "I
 -   **NLP:** NLTK, Scikit-learn (para vetorização e modelos)
 
 ---
-
-### Como Rodar o Projeto
-
-1.  Clone este repositório.
-2.  Instale as bibliotecas listadas acima, preferencialmente em um ambiente virtual.
-3.  Abra e execute o(s) notebook(s) na ordem correta.
