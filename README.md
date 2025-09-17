@@ -17,18 +17,8 @@ O desafio consiste em distinguir tweets que reportam desastres genuínos (ex: "I
 ### Metodologia e Tecnologias
 
 -   **Linguagem:** Python
--   **Ambiente:** Jupyter Notebook
 -   **Processamento de Dados:** Pandas, NumPy
 -   **NLP:** NLTK, Scikit-learn (para vetorização e modelos)
--   **Modelos de Classificação:** [Adicionar o(s) nome(s) do(s) seu(s) modelo(s), ex: Random Forest, Naive Bayes, etc.]
-
----
-
-### Resultados
-
-O modelo foi treinado para alcançar uma alta precisão na classificação dos tweets.
-
--   **Score no Kaggle:** [Adicione seu score final aqui, ex: 0.785]
 
 ---
 
